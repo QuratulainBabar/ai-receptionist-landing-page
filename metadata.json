@@ -1,0 +1,6 @@
+{
+  "name": "CuraVoice AI - Healthcare AI Receptionist Platform",
+  "description": "Enterprise AI Receptionist built specifically for clinics, doctors, and healthcare networks. 24/7 call answering, instant appointment scheduling, EHR integration, and HIPAA-grade patient communication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
